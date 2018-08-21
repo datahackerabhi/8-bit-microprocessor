@@ -1,7 +1,7 @@
 #author:Abhishek Nair
 #date:1/11/17
 
-#an assembler for the 8-bit microprocessor made in EE2016 Lab.
+#an assembler for the 8-bit microprocessor.
 #instructions must be on new lines and operands must be comma separated.
 
 program_mem = open('code','r')
